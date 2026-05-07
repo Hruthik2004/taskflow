@@ -208,17 +208,6 @@ npm run dev:frontend
 | Create/edit tasks | ✅ | ✅ |
 | View project | ✅ | ✅ |
 
----
-
-## 📹 Demo Video Script (2-5 min)
-
-1. **[0:00-0:30]** Show login with admin@demo.com
-2. **[0:30-1:00]** Walk through Dashboard — stats, task list, filters
-3. **[1:00-1:45]** Open a project → show Tasks, Kanban Board, Members tabs
-4. **[1:45-2:15]** Create a new task → assign → set due date
-5. **[2:15-2:45]** Open task detail → update status → add a comment
-6. **[2:45-3:15]** Show Team page (admin only) → change role
-7. **[3:15-3:30]** Logout → Login as member → show restricted access
 
 ---
 
